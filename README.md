@@ -23,6 +23,9 @@ Running YOLOv4 object detections on webcam images and video is also possible wit
 Follow this notebook to run YOLOv4 on webcam within Colab: https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing
 
 ### YOLOv4 Video Example
+
+yolov4-webcam-demo.gif
+
 <p align="center"><img src="videos/yolov4-webcam-demo.gif"\></p>
 
 Cheers!
