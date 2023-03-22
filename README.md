@@ -3,7 +3,7 @@
 
 This repository walks you through how to Build, Train and Run YOLOv4 Object Detections with Darknet in the Cloud through Google Colab.
 
-![Example Of YOLOv4 Detections](images/detection1.jpg)
+![detection1](https://user-images.githubusercontent.com/85488433/227044945-f41232bb-2b5f-4277-b5dc-95ba191c9344.jpg)
 
 To follow along with the exact tutorial upload this entire repository to your Google Drive home folder. Then follow along with the notebook by opening it within Google Colab.
 
